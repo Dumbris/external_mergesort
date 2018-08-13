@@ -1,4 +1,5 @@
-# The python implementation of an external sort for sorting large text files. This script consumes only 8Mb RAM to sort 26G file.
+# External merge sort 
+The python implementation of an external sort for sorting large text files. This script consumes only *8Mb RAM* to sort *26G file*.
 
 ## Generate csv file
 `FILENAME=/media/data/test2.csv python3 generator.py`
